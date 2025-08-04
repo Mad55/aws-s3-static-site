@@ -5,7 +5,7 @@
 Deployed a personal static portfolio site using Amazon S3 and hosted it under a custom domain (marionmauriceproject.com) purchased via Namecheap. Secured the website with HTTPS using Amazon CloudFront and AWS Certificate Manager.
 
 ## 🌐 Live Demo
-🔗 https://marionmauriceproject.com
+🔗 http://marionmauriceproject.com/
 
 ## 🧰 AWS Services Used
 - Amazon S3 (Static Website Hosting)
